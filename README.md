@@ -34,5 +34,6 @@ Thanks to Power BI's robust features, I was able to craft a compelling -storytel
 ![image](https://github.com/karimdiab97/Adventure-Work-Sales-Power-BI/assets/101432419/61b9904c-5265-40fb-b366-8ee6aeffb90b)
 ![image](https://github.com/karimdiab97/Adventure-Work-Sales-Power-BI/assets/101432419/43a20a95-5ee7-45b2-ae6e-676787a83360)
 ![image](https://github.com/karimdiab97/Adventure-Work-Sales-Power-BI/assets/101432419/c9c09fc6-e252-4446-84ca-7531b7cf5fac)
+![Dimension Model](https://github.com/karimdiab97/Adventure-Work-Sales-Power-BI/assets/101432419/73fcb0e6-f548-43da-9db4-418e1e913acd)
 
 
